@@ -1,1 +1,6 @@
-# TypeScript курс. Проект GitHub user finder
+# Github User card finder
+Используются следующие технологии: TypeScript, React, SCSS modules
+Для работы проекта требуется сделать следующее:
+1. Склонировать репозиторий
+2. Использовать команду npm i
+3. Использовать команду npm start
